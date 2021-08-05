@@ -1,5 +1,3 @@
-import * as d3 from "d3";
-
 async function drawChart() {
   // 1. Access data
 
