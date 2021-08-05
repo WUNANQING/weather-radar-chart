@@ -1,4 +1,4 @@
-# weather-radar-chart
+# weather radar chart with D3.js
 
 https://wunanqing.github.io/weather-radar-chart/
 
