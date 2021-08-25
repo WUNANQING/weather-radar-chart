@@ -14,7 +14,7 @@ async function drawChart() {
 
   // 2. Create chart dimensions
 
-  const width = 600;
+  const width = innerWidth;
   let dimensions = {
     width: width,
     height: width,
